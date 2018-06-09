@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "//c1.staticflickr.com/6/5469/30877996472_4f7a9e0acf_b.jpg"
+image = "https://c1.staticflickr.com/6/5469/30877996472_4f7a9e0acf_b.jpg"
 imageAuthor="Edita Dibrani"
 date = "2018-06-09"
 title = "Gjuha Jonë"

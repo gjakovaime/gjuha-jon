@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "//c1.staticflickr.com/6/5618/30959440756_cf99bdc38b_b.jpg"
+image = "https://c1.staticflickr.com/9/8296/7849877464_048db1b6a0_b.jpg"
 imageAuthor="Edita Dibrani"
 date = "2018-06-09"
 title = "Fati"

@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "//c1.staticflickr.com/8/7036/6846006839_c995ac0c69_b.jpg"
+image = "https://c1.staticflickr.com/8/7036/6846006839_c995ac0c69_b.jpg"
 imageAuthor="Edita Dibrani"
 date = "2018-06-09"
 title = "Për Mëmëdhenë"

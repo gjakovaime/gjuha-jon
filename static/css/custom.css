@@ -5,6 +5,11 @@ div.entry-content article{
 .entry-meta{
     padding-bottom: 3em;
 }
+
+.excerpt-content {
+    padding: 3em;
+  }
+
 .entry-tags{
     display: none;
 }

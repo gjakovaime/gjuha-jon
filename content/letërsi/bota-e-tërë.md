@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "//c1.staticflickr.com/6/5766/30959440546_dae336124f_b.jpg"
+image = "https://c1.staticflickr.com/6/5766/30959440546_dae336124f_b.jpg"
 imageAuthor="Edita Dibrani"
 date = "2018-06-09"
 title = "Bota e Tërë"
