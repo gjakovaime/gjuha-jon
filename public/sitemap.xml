@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.org/let%C3%ABrsi/abetare/</loc>
+    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/let%C3%ABrsi/bota-e-t%C3%ABr%C3%AB/</loc>
+    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/let%C3%ABrsi/gjuha-jon%C3%AB/</loc>
+    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/let%C3%ABrsi/gjuha-shqipe-ismail-kadare/</loc>
+    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/let%C3%ABrsi/p%C3%ABr-m%C3%ABm%C3%ABdhen%C3%AB-mihal-grameno/</loc>
+    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/let%C3%ABrsi/vallja-shqiptare/</loc>
+    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/shkrimtar/bekim-ga%C3%A7e/</loc>
+    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/</loc>
+    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/q%C3%ABllimi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/shkrimtar/ismail-kadare/</loc>
+    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/let%C3%ABrsi/</loc>
+    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/shkrimtar/mihal-grameno/</loc>
+    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/shkrimtar/naim-frash%C3%ABri/</loc>
+    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/shkrimtar/</loc>
+    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

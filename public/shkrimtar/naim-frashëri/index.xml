@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naim Frashëri on Gjuha Jonë</title>
+    <link>https://example.org/shkrimtar/naim-frash%C3%ABri/</link>
+    <description>Recent content in Naim Frashëri on Gjuha Jonë</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sqi-aln</language>
+    <lastBuildDate>Sat, 09 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.org/shkrimtar/naim-frash%C3%ABri/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gjuha Jonë</title>
+      <link>https://example.org/let%C3%ABrsi/gjuha-jon%C3%AB/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/let%C3%ABrsi/gjuha-jon%C3%AB/</guid>
+      <description>Gjuha jonë sa e mirë! Sa e ëmbël, sa e gjrë! Sa e lehtë, sa e lirë! Sa e bukur, sa e vlerë!</description>
+    </item>
+    
+  </channel>
+</rss>

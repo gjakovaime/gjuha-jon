@@ -1,0 +1,17 @@
+/*hide extra slash on excerpt meta since site author info is excluded*/
+div.entry-content article{
+    text-align: center;
+}
+.entry-meta{
+    padding-bottom: 3em;
+}
+.entry-tags{
+    display: none;
+}
+.image-author{
+    text-align: right;
+    font-style:italic;
+    font-size: 80%;
+    padding-right: 1%;
+}
+div.entry-meta span.date{display:none;}
