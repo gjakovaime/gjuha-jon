@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Naim Frashëri on Gjuha Jonë</title>
-    <link>/shkrimtar/naim-frash%C3%ABri/</link>
+    <link>gjuha-jon/shkrimtar/naim-frash%C3%ABri/</link>
     <description>Recent content in Naim Frashëri on Gjuha Jonë</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sqi-aln</language>
     <lastBuildDate>Sat, 09 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/shkrimtar/naim-frash%C3%ABri/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="gjuha-jon/shkrimtar/naim-frash%C3%ABri/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gjuha Jonë</title>
-      <link>/let%C3%ABrsi/gjuha-jon%C3%AB/</link>
+      <link>gjuha-jon/let%C3%ABrsi/gjuha-jon%C3%AB/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/let%C3%ABrsi/gjuha-jon%C3%AB/</guid>
+      <guid>gjuha-jon/let%C3%ABrsi/gjuha-jon%C3%AB/</guid>
       <description>Gjuha jonë sa e mirë! Sa e ëmbël, sa e gjrë! Sa e lehtë, sa e lirë! Sa e bukur, sa e vlerë!</description>
     </item>
     

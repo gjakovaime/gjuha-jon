@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "gjuha-jon"
 publishDir = "docs"
 title = "Gjuha Jonë"
 theme = "hugo-nederburg-theme"
@@ -15,8 +15,8 @@ paginate = 5 #frontpage pagination
   disableKinds=["categories", "tags"]
 
 [params]
-  slogan = "Përmbledhje letërsi në gjuhën tonë të bukur shqipe"
-  description = "Describe your website" # meta description
+  slogan = "Përmbledhje e letërsive në gjuhën tonë të bukur shqipe"
+  description = "Përmbledhje e letërsive në gjuhën tonë të bukur shqipe" # meta description
   copyright = [
     "&copy; 2018 Edita Dibrani",
     "Nederburg Hugo Theme by [Appernetic](https://appernetic.io)."

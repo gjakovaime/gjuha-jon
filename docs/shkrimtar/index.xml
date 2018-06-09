@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shkrimtar on Gjuha Jonë</title>
-    <link>/shkrimtar/</link>
+    <link>gjuha-jon/shkrimtar/</link>
     <description>Recent content in Shkrimtar on Gjuha Jonë</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sqi-aln</language>
     <lastBuildDate>Sat, 09 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/shkrimtar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="gjuha-jon/shkrimtar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bekim Gaçe</title>
-      <link>/shkrimtar/bekim-ga%C3%A7e/</link>
+      <link>gjuha-jon/shkrimtar/bekim-ga%C3%A7e/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/shkrimtar/bekim-ga%C3%A7e/</guid>
+      <guid>gjuha-jon/shkrimtar/bekim-ga%C3%A7e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ismail Kadare</title>
-      <link>/shkrimtar/ismail-kadare/</link>
+      <link>gjuha-jon/shkrimtar/ismail-kadare/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/shkrimtar/ismail-kadare/</guid>
+      <guid>gjuha-jon/shkrimtar/ismail-kadare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mihal Grameno</title>
-      <link>/shkrimtar/mihal-grameno/</link>
+      <link>gjuha-jon/shkrimtar/mihal-grameno/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/shkrimtar/mihal-grameno/</guid>
+      <guid>gjuha-jon/shkrimtar/mihal-grameno/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Naim Frashëri</title>
-      <link>/shkrimtar/naim-frash%C3%ABri/</link>
+      <link>gjuha-jon/shkrimtar/naim-frash%C3%ABri/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/shkrimtar/naim-frash%C3%ABri/</guid>
+      <guid>gjuha-jon/shkrimtar/naim-frash%C3%ABri/</guid>
       <description></description>
     </item>
     

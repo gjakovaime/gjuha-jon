@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Letërsis on Gjuha Jonë</title>
-    <link>/let%C3%ABrsi/</link>
+    <link>gjuha-jon/let%C3%ABrsi/</link>
     <description>Recent content in Letërsis on Gjuha Jonë</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sqi-aln</language>
     <lastBuildDate>Sat, 09 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/let%C3%ABrsi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="gjuha-jon/let%C3%ABrsi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Abetare</title>
-      <link>/let%C3%ABrsi/abetare/</link>
+      <link>gjuha-jon/let%C3%ABrsi/abetare/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/let%C3%ABrsi/abetare/</guid>
+      <guid>gjuha-jon/let%C3%ABrsi/abetare/</guid>
       <description>Are, are, abetare, Në çdo faqe një dritare, Po më çel ti për çdo ditë, E më jep gëzim e dritë.
 Ore, ore, oj fletore, Ca me vija, ca katrore. Do t&amp;rsquo;ju shkruaj me vija të lira, Do t&amp;rsquo;ju mbush me nota të mira.</description>
     </item>
     
     <item>
       <title>Bota e Tërë</title>
-      <link>/let%C3%ABrsi/bota-e-t%C3%ABr%C3%AB/</link>
+      <link>gjuha-jon/let%C3%ABrsi/bota-e-t%C3%ABr%C3%AB/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/let%C3%ABrsi/bota-e-t%C3%ABr%C3%AB/</guid>
+      <guid>gjuha-jon/let%C3%ABrsi/bota-e-t%C3%ABr%C3%AB/</guid>
       <description>Bota e tërë munt të të shajnë,  Po pej ty kurrë s&amp;rsquo;mund të më ndajnë; Se tinë je dhe dot&amp;rsquo; jesh vetë Që dua unë në këtë jetë.
 Edhe në qoftë të vdeç më parë, Pej tynë kurrë s&amp;rsquo;jam për të ndarë, Por si të gjallë që të kam pasur, Edhe të vdekur kam për të dashur.
 Nga vari yt do mos largohem, Nat&amp;rsquo; edhe ditë gjer të bashkohem, Edh&amp;rsquo; atje lart ku s&amp;rsquo;ka mëri S&amp;rsquo;munt të na ndanjë as një njeri.</description>
@@ -34,10 +34,10 @@ Nga vari yt do mos largohem, Nat&amp;rsquo; edhe ditë gjer të bashkohem, Edh&a
     
     <item>
       <title>Fati</title>
-      <link>/let%C3%ABrsi/fati-mihal-grameno/</link>
+      <link>gjuha-jon/let%C3%ABrsi/fati-mihal-grameno/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/let%C3%ABrsi/fati-mihal-grameno/</guid>
+      <guid>gjuha-jon/let%C3%ABrsi/fati-mihal-grameno/</guid>
       <description>Prej mëmës më ke mërguar, Fat&amp;rsquo; i zi edhe mallkuar, Në vënt t&amp;rsquo;huaj që të rronj, Mëmëdhen&amp;rsquo; ta dëshëronj.
 Nga të dashurit më ndave, Shpirtin zemrënë m&amp;rsquo;i dave, Se të vogël më ke ngritur Prej vëndit që kisha lindur.
 Nga do kthehem e vërtitem Me të huaj vetëm piqem Njeri s&amp;rsquo;vjen të më pushtonjë, E zëmrën të m&amp;rsquo;a gëzojnë.
@@ -46,19 +46,19 @@ Kur kujtonj o Mëmëdhenë, Lotet çurkë mua më venë. Duar ngre, mi qell vës
     
     <item>
       <title>Gjuha Jonë</title>
-      <link>/let%C3%ABrsi/gjuha-jon%C3%AB/</link>
+      <link>gjuha-jon/let%C3%ABrsi/gjuha-jon%C3%AB/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/let%C3%ABrsi/gjuha-jon%C3%AB/</guid>
+      <guid>gjuha-jon/let%C3%ABrsi/gjuha-jon%C3%AB/</guid>
       <description>Gjuha jonë sa e mirë! Sa e ëmbël, sa e gjrë! Sa e lehtë, sa e lirë! Sa e bukur, sa e vlerë!</description>
     </item>
     
     <item>
       <title>Gjuha Shqipe</title>
-      <link>/let%C3%ABrsi/gjuha-shqipe-ismail-kadare/</link>
+      <link>gjuha-jon/let%C3%ABrsi/gjuha-shqipe-ismail-kadare/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/let%C3%ABrsi/gjuha-shqipe-ismail-kadare/</guid>
+      <guid>gjuha-jon/let%C3%ABrsi/gjuha-shqipe-ismail-kadare/</guid>
       <description>Kur në sulm hodhën turqit Hordhitë e pambaruara, Kështjellat e sintaksës S&amp;rsquo;i muar që s&amp;rsquo;i muar.
 Në bedena poemash Popullore mbetën Kufoma divanesh e Kufoma bejtesh.
 Kur panë se gjuhës S&amp;rsquo;i hodhën dot prangat, Lëshuan drejt saj Gjithfarë merimangash.
@@ -69,10 +69,10 @@ Të të bënin ty, donin Shqipëri, memece.</description>
     
     <item>
       <title>Lumtësija</title>
-      <link>/let%C3%ABrsi/lumt%C3%ABsija/</link>
+      <link>gjuha-jon/let%C3%ABrsi/lumt%C3%ABsija/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/let%C3%ABrsi/lumt%C3%ABsija/</guid>
+      <guid>gjuha-jon/let%C3%ABrsi/lumt%C3%ABsija/</guid>
       <description>Lumtësinë, lumtësinë Të kësaj bote pa funt Veç të marrët q&amp;rsquo;e arrinë Ata vetëm, ata munt.
 Çdo njeri gjer mos marrohet Ç&amp;rsquo;nuku bën e kapërxen? Po më kot lodhet mundohet Se atë kurrë s&amp;rsquo;e gjen.
 Qoftë mbret, qoftë i fundit, Gjyrmojnë nga një qëllim, Po ësht&amp;rsquo; ëndër si i gjumit Fluturon e s&amp;rsquo;ka qëndrim.
@@ -81,10 +81,10 @@ Ajy është i gënjyer Që pandeh se e afron, Edhe pret ditën e vyer,  S&amp;rs
     
     <item>
       <title>Për Mëmëdhenë</title>
-      <link>/let%C3%ABrsi/p%C3%ABr-m%C3%ABm%C3%ABdhen%C3%AB-mihal-grameno/</link>
+      <link>gjuha-jon/let%C3%ABrsi/p%C3%ABr-m%C3%ABm%C3%ABdhen%C3%AB-mihal-grameno/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/let%C3%ABrsi/p%C3%ABr-m%C3%ABm%C3%ABdhen%C3%AB-mihal-grameno/</guid>
+      <guid>gjuha-jon/let%C3%ABrsi/p%C3%ABr-m%C3%ABm%C3%ABdhen%C3%AB-mihal-grameno/</guid>
       <description>(Kënga e kryengritësve shqiptarë)
 Për mëmëdhenë, për mëmëdhenë Vraponi burra, se s&amp;rsquo;ka me prit! Të vdesim sot ne me besa besë Pranë flamurit të kuq q&amp;rsquo;ungrit!
 Pranë flamurit, pranë flamurit! Me shpatë çveshur shqiëtarisht, Për dhen&amp;rsquo; e Babës edhe të Burrit Kemi me vdekur sot burrërisht.
@@ -94,10 +94,10 @@ E Drini plaku me oshëtima Mbi Shqipërinë valët po derdh; Tosk&amp;rsquo; edh
     
     <item>
       <title>Vallja Shqiptare</title>
-      <link>/let%C3%ABrsi/vallja-shqiptare/</link>
+      <link>gjuha-jon/let%C3%ABrsi/vallja-shqiptare/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/let%C3%ABrsi/vallja-shqiptare/</guid>
+      <guid>gjuha-jon/let%C3%ABrsi/vallja-shqiptare/</guid>
       <description>Tri herë opinga rrahu dheun Sikur kërkoi leje prej tij. Pastaj shamia palët ndehu Me qeësi dhe madhështi.
 Kështu midis qiellit edhe botës Vallja u lind, vallja u shpall. Këmba sinjale i çon tokës Dhe dora qiellit i jep lajm.
 Dhe vallja rookulliset tutje Në kohëra hedhur si hobe, Prilli përsipër i hedh lule, Dhjetori borën shkund atje.</description>
