@@ -34,4 +34,4 @@ paginate = 5 #frontpage pagination
   weight = 2
 
   [params.social]
-  github        = "full profile url in github"
+  github        = "https://gjakovaime.github.io/"
