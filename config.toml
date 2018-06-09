@@ -1,4 +1,5 @@
 baseurl = "https://example.org/"
+publishDir = "docs"
 title = "Gjuha Jonë"
 theme = "hugo-nederburg-theme"
 languageCode = "sqi-aln"
