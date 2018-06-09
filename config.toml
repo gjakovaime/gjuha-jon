@@ -1,4 +1,4 @@
-baseurl = "gjuha-jon"
+baseurl = "https://gjakovaime.github.io/gjuha-jon/"
 publishDir = "docs"
 title = "Gjuha Jonë"
 theme = "hugo-nederburg-theme"
@@ -34,4 +34,4 @@ paginate = 5 #frontpage pagination
   weight = 2
 
   [params.social]
-  github        = "https://gjakovaime.github.io/"
+  github        = "https://github.com/gjakovaime/gjuha-jon"
