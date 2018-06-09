@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "https://c1.staticflickr.com/6/5766/30959440546_dae336124f_b.jpg"
-imageAuthor="Edita Dibrani"
+imageAuthor="Blend Roka"
 date = "2018-06-09"
 title = "Bota e Tërë"
 shkrimtar=["Mihal Grameno"]

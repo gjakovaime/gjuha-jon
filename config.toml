@@ -9,10 +9,12 @@ disqusShortname = ""
 googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
+paginatePath="faqja"
 
 [taxonomies]
   shkrimtar="shkrimtar"
   disableKinds=["categories", "tags"]
+
 
 [params]
   slogan = "Përmbledhje e letërsive në gjuhën tonë të bukur shqipe"
