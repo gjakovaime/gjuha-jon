@@ -7,7 +7,6 @@ date = "2018-06-09"
 title = "Gjuha Shqipe"
 shkrimtar=["Ismail Kadare"]
 weight = 0
-author = "test"
 +++
 
 Kur në sulm hodhën turqit<br/>

@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "https://c1.staticflickr.com/7/6110/6219283478_6d6b73c60f_b.jpg"
-imageAuthor="Blend Roka"
+imageAuthor="Edita Dibrani"
 date = "2018-06-09"
 title = "Në Pyll Do Vete"
 shkrimtar=["Mihal Grameno"]
