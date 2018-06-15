@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shkrimtar on Gjuha Jonë</title>
-    <link>//gjuhajone.com/shkrimtar/</link>
+    <link>https://gjuhajone.com/shkrimtar/</link>
     <description>Recent content in Shkrimtar on Gjuha Jonë</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sqi-aln</language>
     <lastBuildDate>Sat, 09 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="//gjuhajone.com/shkrimtar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gjuhajone.com/shkrimtar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bekim Gaçe</title>
-      <link>//gjuhajone.com/shkrimtar/bekim-ga%C3%A7e/</link>
+      <link>https://gjuhajone.com/shkrimtar/bekim-ga%C3%A7e/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>//gjuhajone.com/shkrimtar/bekim-ga%C3%A7e/</guid>
+      <guid>https://gjuhajone.com/shkrimtar/bekim-ga%C3%A7e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ismail Kadare</title>
-      <link>//gjuhajone.com/shkrimtar/ismail-kadare/</link>
+      <link>https://gjuhajone.com/shkrimtar/ismail-kadare/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>//gjuhajone.com/shkrimtar/ismail-kadare/</guid>
+      <guid>https://gjuhajone.com/shkrimtar/ismail-kadare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mihal Grameno</title>
-      <link>//gjuhajone.com/shkrimtar/mihal-grameno/</link>
+      <link>https://gjuhajone.com/shkrimtar/mihal-grameno/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>//gjuhajone.com/shkrimtar/mihal-grameno/</guid>
+      <guid>https://gjuhajone.com/shkrimtar/mihal-grameno/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Naim Frashëri</title>
-      <link>//gjuhajone.com/shkrimtar/naim-frash%C3%ABri/</link>
+      <link>https://gjuhajone.com/shkrimtar/naim-frash%C3%ABri/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>//gjuhajone.com/shkrimtar/naim-frash%C3%ABri/</guid>
+      <guid>https://gjuhajone.com/shkrimtar/naim-frash%C3%ABri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Të Panjohur</title>
-      <link>//gjuhajone.com/shkrimtar/t%C3%AB-panjohur/</link>
+      <link>https://gjuhajone.com/shkrimtar/t%C3%AB-panjohur/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>//gjuhajone.com/shkrimtar/t%C3%AB-panjohur/</guid>
+      <guid>https://gjuhajone.com/shkrimtar/t%C3%AB-panjohur/</guid>
       <description></description>
     </item>
     
