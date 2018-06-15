@@ -1,8 +1,3 @@
-Qyqe qyqe, bukuroshe,
-Që shëtit qoshe mi qoshe
-Kur të vesh edhe sivjet,
-Çoh të fala me shëndet.
-
 +++
 showonlyimage = true
 draft = false
@@ -15,32 +10,37 @@ weight = 0
 +++
 
 
-Qoj të fala Shqipërisë
-Nga një bir i aratisë.
-Edhe thuaj, që në rronjë,
+Qyqe qyqe, bukuroshe,<br/>
+Që shëtit qoshe mi qoshe<br/>
+Kur të vesh edhe sivjet,<br/>
+Çoh të fala me shëndet.
+
+Qoj të fala Shqipërisë<br/>
+Nga një bir i aratisë.<br/>
+Edhe thuaj, që në rronjë,<br/>
 Për ty vetëm dëshëronj.
 
-Dëshëronj ditë e natë,
-Se atë kam mëm' e atë;
-Tek ajo qan zemra ime
+Dëshëronj ditë e natë,<br/>
+Se atë kam mëm' e atë;<br/>
+Tek ajo qan zemra ime<br/>
  Se më riti me thërime.
 
- Atje njojta dashurinë
- Edhe shkojtja foshnjërinë,
- Atje kam gjyshritë t'im,
+ Atje njojta dashurinë<br/>
+ Edhe shkojtja foshnjërinë,<br/>
+ Atje kam gjyshritë t'im,<br/>
  Që derdh lotë pa pushim.
 
- Kur të vesh, ti qyqe thuaj,
- Që këtu jam një i huaj,
- Zemra m'është përvëluar
+ Kur të vesh, ti qyqe thuaj,<br/>
+ Që këtu jam një i huaj,<br/>
+ Zemra m'është përvëluar<br/>
  Për vëndin e shënjtëruar.
 
- Po shprenj fort të Perëndija
- Të mbush dëshirat e mija,
- Të bënj e fluturonj
+ Po shprenj fort të Perëndija<br/>
+ Të mbush dëshirat e mija,<br/>
+ Të bënj e fluturonj<br/>
  E mi breg un të qëndronj.
 
- Edhe atje duke lëftuar
- Të mbyll syt i gëzuar,
- Që vdiqa për Shqipërinë
+ Edhe atje duke lëftuar<br/>
+ Të mbyll syt i gëzuar,<br/>
+ Që vdiqa për Shqipërinë<br/>
  Duke dhën' asaj lirinë.

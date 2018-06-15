@@ -2,34 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gjuha Jonë</title>
-    <link>https://gjakovaime.github.io/gjuha-jon/</link>
+    <link>gjuhajone.com/</link>
     <description>Recent content on Gjuha Jonë</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sqi-aln</language>
+    <lastBuildDate>Sat, 09 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://gjakovaime.github.io/gjuha-jon/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>="self" type="application/rss+xml" />
+	<atom:link href="gjuhajone.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Abetare</title>
-      <link>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/abetare/</link>
+      <link>gjuhajone.com/let%C3%ABrsi/abetare/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/abetare/</guid>
+      <guid>gjuhajone.com/let%C3%ABrsi/abetare/</guid>
       <description>Are, are, abetare, Në çdo faqe një dritare, Po më çel ti për çdo ditë, E më jep gëzim e dritë.
 Ore, ore, oj fletore, Ca me vija, ca katrore. Do t&amp;rsquo;ju shkruaj me vija të lira, Do t&amp;rsquo;ju mbush me nota të mira.</description>
     </item>
     
     <item>
       <title>Bajrami</title>
-      <link>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/t%C3%AB-panjohur/bajrami/</link>
+      <link>gjuhajone.com/let%C3%ABrsi/t%C3%AB-panjohur/bajrami/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/t%C3%AB-panjohur/bajrami/</guid>
+      <guid>gjuhajone.com/let%C3%ABrsi/t%C3%AB-panjohur/bajrami/</guid>
       <description>Aroma e Bajramit, tingëllima e ezanit, depërton thellë dhe shpon zemrën e muslimanit, mbretëron gëzimi e hareja ne të gjithëve na bashkon feja.
 Festën e Bajramit të gjithëve ua uroj posaqerisht vëllezërve e motrave, selam ju dergoj, në rrugë të dëlire Allahu na udhëzoftë, xheneti stacioni i fundit për ne qoftë.
 (huazuar nga kjo faqe)</description>
@@ -37,10 +34,10 @@ Festën e Bajramit të gjithëve ua uroj posaqerisht vëllezërve e motrave, sel
     
     <item>
       <title>Bota e Tërë</title>
-      <link>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/bota-e-t%C3%ABr%C3%AB/</link>
+      <link>gjuhajone.com/let%C3%ABrsi/mihal-grameno/bota-e-t%C3%ABr%C3%AB/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/bota-e-t%C3%ABr%C3%AB/</guid>
+      <guid>gjuhajone.com/let%C3%ABrsi/mihal-grameno/bota-e-t%C3%ABr%C3%AB/</guid>
       <description>Bota e tërë munt të të shajnë,  Po pej ty kurrë s&amp;rsquo;mund të më ndajnë; Se tinë je dhe dot&amp;rsquo; jesh vetë Që dua unë në këtë jetë.
 Edhe në qoftë të vdeç më parë, Pej tynë kurrë s&amp;rsquo;jam për të ndarë, Por si të gjallë që të kam pasur, Edhe të vdekur kam për të dashur.
 Nga vari yt do mos largohem, Nat&amp;rsquo; edhe ditë gjer të bashkohem, Edh&amp;rsquo; atje lart ku s&amp;rsquo;ka mëri S&amp;rsquo;munt të na ndanjë as një njeri.</description>
@@ -48,10 +45,10 @@ Nga vari yt do mos largohem, Nat&amp;rsquo; edhe ditë gjer të bashkohem, Edh&a
     
     <item>
       <title>Fati</title>
-      <link>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/fati/</link>
+      <link>gjuhajone.com/let%C3%ABrsi/mihal-grameno/fati/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/fati/</guid>
+      <guid>gjuhajone.com/let%C3%ABrsi/mihal-grameno/fati/</guid>
       <description>Prej mëmës më ke mërguar, Fat&amp;rsquo; i zi edhe mallkuar, Në vënt t&amp;rsquo;huaj që të rronj, Mëmëdhen&amp;rsquo; ta dëshëronj.
 Nga të dashurit më ndave, Shpirtin zemrënë m&amp;rsquo;i dave, Se të vogël më ke ngritur Prej vëndit që kisha lindur.
 Nga do kthehem e vërtitem Me të huaj vetëm piqem Njeri s&amp;rsquo;vjen të më pushtonjë, E zëmrën të m&amp;rsquo;a gëzojnë.
@@ -60,10 +57,10 @@ Kur kujtonj o Mëmëdhenë, Lotet çurkë mua më venë. Duar ngre, mi qell vës
     
     <item>
       <title>Gjer Kur</title>
-      <link>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/gjer-kur/</link>
+      <link>gjuhajone.com/let%C3%ABrsi/mihal-grameno/gjer-kur/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/gjer-kur/</guid>
+      <guid>gjuhajone.com/let%C3%ABrsi/mihal-grameno/gjer-kur/</guid>
       <description>Gjer kur vallë o Naturë Regullonj&amp;rsquo; e Gjithësisë, Nuk&amp;rsquo; e ke ner ment me prurë Një gëzim dhe Shqipërisë?
 Se nga do sytë që kthejmë E gjer ku ne na vështrojnë, Në levrim të gjith i gjejmë Dyke rendur të punojnë.
 Mbret mi gjithë është Djelli Për të ndritur Gjithësinë, Të lëvisnjë ç&amp;rsquo;ban Dheu, Qielli, Po përse jo Shqipërinë?
@@ -72,19 +69,19 @@ Hëna prapë gjithë natën Ajo del edhe jep jetë, Gjithëkujt i nxori datën V
     
     <item>
       <title>Gjuha Jonë</title>
-      <link>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/naim-frash%C3%ABri/gjuha-jon%C3%AB/</link>
+      <link>gjuhajone.com/let%C3%ABrsi/naim-frash%C3%ABri/gjuha-jon%C3%AB/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/naim-frash%C3%ABri/gjuha-jon%C3%AB/</guid>
+      <guid>gjuhajone.com/let%C3%ABrsi/naim-frash%C3%ABri/gjuha-jon%C3%AB/</guid>
       <description>Gjuha jonë sa e mirë! Sa e ëmbël, sa e gjrë! Sa e lehtë, sa e lirë! Sa e bukur, sa e vlerë!</description>
     </item>
     
     <item>
       <title>Gjuha Shqipe</title>
-      <link>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/ismail-kadare/gjuha-shqipe/</link>
+      <link>gjuhajone.com/let%C3%ABrsi/ismail-kadare/gjuha-shqipe/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/ismail-kadare/gjuha-shqipe/</guid>
+      <guid>gjuhajone.com/let%C3%ABrsi/ismail-kadare/gjuha-shqipe/</guid>
       <description>Kur në sulm hodhën turqit Hordhitë e pambaruara, Kështjellat e sintaksës S&amp;rsquo;i muar që s&amp;rsquo;i muar.
 Në bedena poemash Popullore mbetën Kufoma divanesh e Kufoma bejtesh.
 Kur panë se gjuhës S&amp;rsquo;i hodhën dot prangat, Lëshuan drejt saj Gjithfarë merimangash.
@@ -95,10 +92,10 @@ Të të bënin ty, donin Shqipëri, memece.</description>
     
     <item>
       <title>I Burgosuri</title>
-      <link>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/i-burgosuri/</link>
+      <link>gjuhajone.com/let%C3%ABrsi/mihal-grameno/i-burgosuri/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/i-burgosuri/</guid>
+      <guid>gjuhajone.com/let%C3%ABrsi/mihal-grameno/i-burgosuri/</guid>
       <description>O Zot i madh që në qell rri, Përse më kreve mi dhet njeri? Sa vuanjë unë nukë vështron? Të shtrëmbrën, Zot, qysh e duron?
 Mbyllur i mjeri nat edhe ditë Në errësirë, edhe pa dritë, Dielli as hëna nukë më vështronjë, Përveç se muret që më rrethojnë.
 Nga afërija më kanë ndarë, Sytë së qari më janë tharë, Për një të drejtë që ti e di. Kur kreve botën, o Perëndi.</description>
@@ -106,10 +103,10 @@ Nga afërija më kanë ndarë, Sytë së qari më janë tharë, Për një të dr
     
     <item>
       <title>Lamtumirë</title>
-      <link>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/lamtumir%C3%AB/</link>
+      <link>gjuhajone.com/let%C3%ABrsi/mihal-grameno/lamtumir%C3%AB/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/lamtumir%C3%AB/</guid>
+      <guid>gjuhajone.com/let%C3%ABrsi/mihal-grameno/lamtumir%C3%AB/</guid>
       <description>Lamtumirë, ju lë shëndenë, Ardhi dita që të shkonj, Për liri për mëmëdhenë Me gaz vete të lëftonj.
 Për lirinë, për lirinë Me gëzim kam un&amp;rsquo; me vdekur Më s&amp;rsquo;duronj dot robërinë Se mjaft zemra m&amp;rsquo;është djegur
 Pushka m&amp;rsquo;është mëm&amp;rsquo; e dashur Edhe shpata e shkëlqyer Ati im këto ka pasur Me gjak t&amp;rsquo;armikur lyer.
@@ -118,10 +115,10 @@ Shtëpi kam gunën e dhirtë, Malet pyjet ku jetonj Duke pritur mot e ditë Armi
     
     <item>
       <title>Lumtësija</title>
-      <link>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/lumt%C3%ABsija/</link>
+      <link>gjuhajone.com/let%C3%ABrsi/mihal-grameno/lumt%C3%ABsija/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/lumt%C3%ABsija/</guid>
+      <guid>gjuhajone.com/let%C3%ABrsi/mihal-grameno/lumt%C3%ABsija/</guid>
       <description>Lumtësinë, lumtësinë Të kësaj bote pa funt Veç të marrët q&amp;rsquo;e arrinë Ata vetëm, ata munt.
 Çdo njeri gjer mos marrohet Ç&amp;rsquo;nuku bën e kapërxen? Po më kot lodhet mundohet Se atë kurrë s&amp;rsquo;e gjen.
 Qoftë mbret, qoftë i fundit, Gjyrmojnë nga një qëllim, Po ësht&amp;rsquo; ëndër si i gjumit Fluturon e s&amp;rsquo;ka qëndrim.
@@ -129,11 +126,23 @@ Ajy është i gënjyer Që pandeh se e afron, Edhe pret ditën e vyer,  S&amp;rs
     </item>
     
     <item>
-      <title>Në Pyll Do Vete</title>
-      <link>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/n%C3%AB-pyll-do-vete/</link>
+      <title>Lutje</title>
+      <link>gjuhajone.com/let%C3%ABrsi/mihal-grameno/lutje/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/n%C3%AB-pyll-do-vete/</guid>
+      <guid>gjuhajone.com/let%C3%ABrsi/mihal-grameno/lutje/</guid>
+      <description>Qyqe qyqe, bukuroshe, Që shëtit qoshe mi qoshe Kur të vesh edhe sivjet, Çoh të fala me shëndet.
+Qoj të fala Shqipërisë Nga një bir i aratisë. Edhe thuaj, që në rronjë, Për ty vetëm dëshëronj.
+Dëshëronj ditë e natë, Se atë kam mëm&amp;rsquo; e atë; Tek ajo qan zemra ime Se më riti me thërime.
+Atje njojta dashurinë Edhe shkojtja foshnjërinë, Atje kam gjyshritë t&amp;rsquo;im, Që derdh lotë pa pushim.</description>
+    </item>
+    
+    <item>
+      <title>Në Pyll Do Vete</title>
+      <link>gjuhajone.com/let%C3%ABrsi/mihal-grameno/n%C3%AB-pyll-do-vete/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>gjuhajone.com/let%C3%ABrsi/mihal-grameno/n%C3%AB-pyll-do-vete/</guid>
       <description>Në pyje do vete të kre kalive Me vetësinë atje të shkonj, Se në kët&amp;rsquo; jetë veç hidhërime Tjatër gjësendi nuk kupëtonj.
 Hidhërime s&amp;rsquo;dinja i vogël sa isha Losnja këndonja si brumbullak, Njëzet e një akoma s&amp;rsquo;kisha  Fytyrën time s&amp;rsquo;ndonjë pej plak.
 S&amp;rsquo;atë që desha në këtë jetë, Emrin të saj nuk&amp;rsquo;e thom dot&amp;rsquo; I mbylli sytë, më la të shkretë, Thëres, kërkonj, po është kot.
@@ -142,10 +151,10 @@ Në pyll do vete të kre kalive Tjatër gjësendi më s&amp;rsquo;do të pres, A
     
     <item>
       <title>Për Mëmëdhenë</title>
-      <link>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/p%C3%ABr-m%C3%ABm%C3%ABdhen%C3%AB/</link>
+      <link>gjuhajone.com/let%C3%ABrsi/mihal-grameno/p%C3%ABr-m%C3%ABm%C3%ABdhen%C3%AB/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/p%C3%ABr-m%C3%ABm%C3%ABdhen%C3%AB/</guid>
+      <guid>gjuhajone.com/let%C3%ABrsi/mihal-grameno/p%C3%ABr-m%C3%ABm%C3%ABdhen%C3%AB/</guid>
       <description>(Kënga e kryengritësve shqiptarë)
 Për mëmëdhenë, për mëmëdhenë Vraponi burra, se s&amp;rsquo;ka me prit! Të vdesim sot ne me besa besë Pranë flamurit të kuq q&amp;rsquo;ungrit!
 Pranë flamurit, pranë flamurit! Me shpatë çveshur shqiëtarisht, Për dhen&amp;rsquo; e Babës edhe të Burrit Kemi me vdekur sot burrërisht.
@@ -155,10 +164,10 @@ E Drini plaku me oshëtima Mbi Shqipërinë valët po derdh; Tosk&amp;rsquo; edh
     
     <item>
       <title>Uratë për Liri</title>
-      <link>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/urat%C3%AB-p%C3%ABr-liri/</link>
+      <link>gjuhajone.com/let%C3%ABrsi/mihal-grameno/urat%C3%AB-p%C3%ABr-liri/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/urat%C3%AB-p%C3%ABr-liri/</guid>
+      <guid>gjuhajone.com/let%C3%ABrsi/mihal-grameno/urat%C3%AB-p%C3%ABr-liri/</guid>
       <description>&amp;ldquo;Merr uratën, bir, prej meje edhe armët i gatit, se erdh dita e shënuar, dolli ylli e na ndrit.
 është ylli i lirisë, me të tjerë nuku ngjet, Shqipëria kaqë shumë këtë yll që po e pret.
 Djemt e saj le ta dëftejnë, kush mban emër shqipëtar, kurrë s&amp;rsquo;ka për të duruar ta urdhnonjë një barbar.
@@ -167,33 +176,21 @@ Vdekje djema të kërkoni për të shënjtënë liri, rrojtjenë përse e doni n
     
     <item>
       <title>Vallja Shqiptare</title>
-      <link>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/ismail-kadare/vallja-shqiptare/</link>
+      <link>gjuhajone.com/let%C3%ABrsi/ismail-kadare/vallja-shqiptare/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/ismail-kadare/vallja-shqiptare/</guid>
+      <guid>gjuhajone.com/let%C3%ABrsi/ismail-kadare/vallja-shqiptare/</guid>
       <description>Tri herë opinga rrahu dheun Sikur kërkoi leje prej tij. Pastaj shamia palët ndehu Me qeësi dhe madhështi.
 Kështu midis qiellit edhe botës Vallja u lind, vallja u shpall. Këmba sinjale i çon tokës Dhe dora qiellit i jep lajm.
 Dhe vallja rookulliset tutje Në kohëra hedhur si hobe, Prilli përsipër i hedh lule, Dhjetori borën shkund atje.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/lutje/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gjakovaime.github.io/gjuha-jon/let%C3%ABrsi/mihal-grameno/lutje/</guid>
-      <description>Qyqe qyqe, bukuroshe, Që shëtit qoshe mi qoshe Kur të vesh edhe sivjet, Çoh të fala me shëndet.
-+++ showonlyimage = true draft = false image = &amp;ldquo;https://c1.staticflickr.com/8/7029/6788594693_19baa2c172_b.jpg&amp;quot; imageAuthor=&amp;ldquo;Edita Dibrani&amp;rdquo; date = &amp;ldquo;2018-06-09&amp;rdquo; title = &amp;ldquo;Lutje&amp;rdquo; shkrimtar=[&amp;ldquo;Mihal Grameno&amp;rdquo;] weight = 0 +++
-Qoj të fala Shqipërisë Nga një bir i aratisë. Edhe thuaj, që në rronjë, Për ty vetëm dëshëronj.
-Dëshëronj ditë e natë, Se atë kam mëm&amp;rsquo; e atë; Tek ajo qan zemra ime Se më riti me thërime.</description>
-    </item>
-    
-    <item>
       <title>Gjuha Shqipe</title>
-      <link>https://gjakovaime.github.io/gjuha-jon/q%C3%ABllimi/</link>
+      <link>gjuhajone.com/q%C3%ABllimi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gjakovaime.github.io/gjuha-jon/q%C3%ABllimi/</guid>
+      <guid>gjuhajone.com/q%C3%ABllimi/</guid>
       <description>Letërsia shqipe gjendet shumë pak në rrjetet e internetit edhe pse nuk ka munges te saj. Kështuqe, këtu do të përmbledhim poezi nga shkrimtarë e shkrimtare të ndryshme.
 Së shpejti do të shënoj se si edhe ju mund të ndihmoni që ta mbushim këtë faqe me fjalë të bukura të gjuhës sonë.</description>
     </item>

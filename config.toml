@@ -1,4 +1,4 @@
-baseurl = "https://gjakovaime.github.io/gjuha-jon/"
+baseurl = "gjuhajone.com"
 publishDir = "docs"
 title = "Gjuha Jonë"
 theme = "hugo-nederburg-theme"
